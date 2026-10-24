@@ -1,0 +1,24 @@
+{
+  "status": "v1.0 public patch/documentation release",
+  "technical_recommendation": "CONDITIONAL TECHNICAL GO",
+  "residual_risks": "T1-T5 accepted by owner; failures and unverified evidence retained",
+  "distribution_review": "Owner-authorized publication with disclosed uncertainty; not comprehensive rights clearance",
+  "patch": {
+    "filename": "Pokemon-Zero-to-Legend-v1.0.ups",
+    "bytes": 31986743,
+    "sha256": "7cf2a43cc6c5e3eb4af8ac099ea97f0a2c75e74648c4a418e8518911fb17307a"
+  },
+  "base": {
+    "description": "Pokemon Emerald Version (USA, Europe), revision 0",
+    "bytes": 16777216,
+    "crc32": "1F1C08FB",
+    "sha256": "a9dec84dfe7f62ab2220bafaef7479da0929d066ece16a6885f6226db19085af"
+  },
+  "target": {
+    "bytes": 33554432,
+    "sha256": "b0c9d480fe2d64ca607522a0d6a5e152f1fa47721a66d8434e65101289a85d1c",
+    "included": false
+  },
+  "verification": "Existing independent UPS reconstruction evidence retained; this step checks unchanged bytes and documentation only.",
+  "release_url": "https://github.com/PhabejSam/pokemon-zero-to-legend-release/releases/tag/v1.0"
+}
