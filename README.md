@@ -12,7 +12,7 @@ Choose **Magikarp, Feebas or Wimpod** and grow together through **Johto and Kant
 
 ### Download and begin
 
-[**Download the v1.0 UPS patch**](https://github.com/PhabejSam/pokemon-zero-to-legend-release/releases/download/v1.0/Pokemon-Zero-to-Legend-v1.0.ups) · [**Installation guide**](INSTALL.md) · [Release & complete package](https://github.com/PhabejSam/pokemon-zero-to-legend-release/releases/tag/v1.0)
+[**Download the v1.0 UPS patch**](https://github.com/PhabejSam/pokemon-zero-to-legend-release/releases/download/v1.0/Pokemon-Zero-to-Legends.ups) · [**Installation guide**](INSTALL.md) · [Release & complete package](https://github.com/PhabejSam/pokemon-zero-to-legend-release/releases/tag/v1.0)
 
 You need your own clean **Pokémon Emerald (USA, Europe), revision 0**: 16 MiB, CRC32 **1F1C08FB**. Apply the UPS directly to Emerald—no intermediate Heart & Soul patch. No ROM or BIOS is supplied. **Returning players: back up your battery save and use normal Continue, not an old save state.** [Save compatibility](COMPATIBILITY.md)
 

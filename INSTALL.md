@@ -10,7 +10,7 @@ Use your own clean **Pokémon Emerald Version (USA, Europe), revision 0**:
 | CRC32 | `1F1C08FB` |
 | SHA-256 | `a9dec84dfe7f62ab2220bafaef7479da0929d066ece16a6885f6226db19085af` |
 
-1. Check the downloaded UPS against the release's checksum file. Filename: `Pokemon-Zero-to-Legend-v1.0.ups`, SHA-256 `7cf2a43cc6c5e3eb4af8ac099ea97f0a2c75e74648c4a418e8518911fb17307a`.
+1. Check the downloaded UPS against the release's checksum file. Filename: `Pokemon-Zero-to-Legends.ups`, SHA-256 `7cf2a43cc6c5e3eb4af8ac099ea97f0a2c75e74648c4a418e8518911fb17307a`.
 2. Use [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) with checksum validation enabled. Apply the patch directly to clean Emerald; do not apply Heart & Soul first or patch an older Zero to Legend ROM.
 3. Save the patched result separately. Expected size: **33,554,432 bytes**. Expected SHA-256: `b0c9d480fe2d64ca607522a0d6a5e152f1fa47721a66d8434e65101289a85d1c`.
 4. Cold-launch in your GBA emulator and use native New Game or Continue as appropriate. Save through the game's menu.
