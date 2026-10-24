@@ -1,5 +1,7 @@
 # Report a problem
 
+Need help first? Ask in the [Zero to Legend Discord](https://discord.gg/JZHHWWjWDW). For a reproducible bug, a GitHub issue gives it a trackable record.
+
 Please [open a GitHub issue](https://github.com/PhabejSam/pokemon-zero-to-legend-release/issues/new) with:
 
 - Game version (v1.0) and whether the patch checksum matched.

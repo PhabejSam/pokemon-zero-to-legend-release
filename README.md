@@ -18,6 +18,10 @@ You need your own clean **Pokémon Emerald (USA, Europe), revision 0**: 16 MiB, 
 
 <p align="center"><img src="screenshots/title.png" width="480" alt="The approved Zero to Legend title screen"></p>
 
+## Join the community
+
+[**Join the Pokémon: Zero to Legend Discord**](https://discord.gg/JZHHWWjWDW) to meet other trainers, share your journey, ask for help and discuss the game. Keep public conversations and screenshots spoiler-safe, especially the level 100 discoveries. For a reproducible problem, follow the [bug-report guide](BUG-REPORT.md).
+
 ## Meet your unlikely partner
 
 All three begin at level 5 and evolve at **level 30**. These exclusive journeys belong to the original partner you receive from Professor Elm. Catching another Pokémon of the same species does not grant its custom powers.
